@@ -1,0 +1,24 @@
+
+# Compilación de .NET
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+
+# Rider
+.idea/
+
+# Archivos de publicación
+publish/
+artifacts/
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
